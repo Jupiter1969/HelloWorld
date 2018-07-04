@@ -6,8 +6,10 @@ package HelloWorld;
 public class HelloWorld {
 
     public static void main(String args[]){
+        //first commit test
         System.out.println("Hello World!");
-        //sdfsf
+        System.out.println("I'm Jupiter!");
+
     }
 
 }
